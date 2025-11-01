@@ -47,7 +47,7 @@ Price: $2 to $3/GB depending on the CPU/Lineup
 
 # Craftlands Hosting
 ### CPU Range: 7950x3D up to 9950X Varies based on location
-Price: €1.7/GB (6GB Plan) | €2.5/GB (8GB an higher)
+Price: €2.5/GB
 
 **Pros**
 - GDPR Compliant
