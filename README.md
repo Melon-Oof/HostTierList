@@ -9,6 +9,7 @@ Note that all the price ranges are based on the fixed plan itself or the "RAM sl
 Price: $1 to $4.5/GB depending on the CPU/Lineup
 
 **Pros**
+- GDPR Compliant
 - Beginner friendly panel UI
 - Many Pterodactyl Addons, very flexible and useful for beginners
 
@@ -45,6 +46,7 @@ Price: $2 to $3/GB depending on the CPU/Lineup
 - Mixed discord server, aka not hosting only. (Can be confusing)
 
 # Craftlands Hosting
+### CPU Range: 7950x3D up to 9950X Varies based on location
 Price: €1.7/GB (6GB Plan) | €2.5/GB (8GB an higher)
 
 **Pros**
@@ -56,4 +58,5 @@ Price: €1.7/GB (6GB Plan) | €2.5/GB (8GB an higher)
 
 **Cons**
 - Issues with MySQL/MariaDB databases
+- Single Lineup
 - Small support team
