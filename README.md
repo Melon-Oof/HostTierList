@@ -2,11 +2,15 @@
 A Repository for Minecraft Hosting Tierlists with pros and cons
 Note that all the price ranges are based on the fixed plan itself or the "RAM slide", check for additional storage/threads on your own as keeping track of all that is difficult.
 
-###Notes:
+### Definitions:
 - Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
 - Scalable Threads: The more ram you buy, the more cores you get too. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
 - Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
 
+### Emoji Definitions:
+- ❌ No/Doesn't Have
+- ⚠️ Not confirmed yet/not sure
+- ✅ Yes/Has it
 
 |Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
 |---          |---  |---       |---              |---               | ---            |---                   |---    |
@@ -14,7 +18,6 @@ Note that all the price ranges are based on the fixed plan itself or the "RAM sl
 |Pebble Host  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ⚠️ | 3386 to 4128 | -  |
 |Birdflop Hosting  | 3900XT up to 9900X | $2 to $3/GB | ❌ | ✅ | ⚠️ | 2742 to 4675 | 501(c)(3) non-profit organization  | - |
 |Craftlands Hosting  | 7950x3D up to 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4733 | -  |
-
 
 ## Detailed List:
 
