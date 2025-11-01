@@ -2,6 +2,9 @@
 A Repository for Minecraft Hosting Tierlists with pros and cons
 Note that all the price ranges are based on the fixed plan itself or the "RAM slide", check for additional storage/threads on your own as keeping track of all that is difficult.
 
+
+|Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating |
+|---          |---  |---       |---              |---               | ---            |---                   |
 ## List:
 
 # Sparked Host
