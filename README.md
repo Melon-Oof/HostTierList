@@ -6,6 +6,7 @@ Note that all the price ranges are based on the fixed plan itself or the "RAM sl
 - Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
 - Scalable Threads: The more ram you buy, the more cores you get too. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
 - Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
+- GDPR compliant: Explicit statement compliance with GDPR from the Executives of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
 
 ### Emoji Definitions:
 - ❌ No/Doesn't Have
