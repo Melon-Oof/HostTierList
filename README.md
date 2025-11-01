@@ -3,9 +3,15 @@ A Repository for Minecraft Hosting Tierlists with pros and cons
 Note that all the price ranges are based on the fixed plan itself or the "RAM slide", check for additional storage/threads on your own as keeping track of all that is difficult.
 
 
-|Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating |
-|---          |---  |---       |---              |---               | ---            |---                   |
-## List:
+|Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
+|---          |---  |---       |---              |---               | ---            |---                   |---    |
+|Sparked Host | [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) | $1 to $4.5/GB | ❌ | ✅ | ✅ | 2042 to 4675 | - |
+|Pebble Host  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ⚠️ | 3386 to 4128 | -  |
+|Birdflop Hosting  | 3900XT up to 9900X | $2 to $3/GB | ❌ | ✅ | ⚠️ | 2742 to 4675 | 501(c)(3) non-profit organization  | - |
+|Craftlands Hosting  | 7950x3D up to 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4733 | -  |
+
+
+## Detailed List:
 
 # Sparked Host
 ### CPU Range: [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) Varies based on location
