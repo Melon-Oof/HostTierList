@@ -57,6 +57,6 @@ Price: €1.7/GB (6GB Plan) | €2.5/GB (8GB an higher)
 - Somewhat customized panel (Can be confusing for standard pterodactyl users)
 
 **Cons**
-- Issues with MySQL/MariaDB databases
+- ~~Issues with MySQL/MariaDB databases~~ Fixed? (01/11/25)
 - Single Lineup
 - Small support team
