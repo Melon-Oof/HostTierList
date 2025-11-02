@@ -1,6 +1,9 @@
 # HostTierList
 A Repository for Minecraft Hosting Tierlists with pros and cons
-Note that all the price ranges are based on the fixed plan itself or the "RAM slide". Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
+**Important**: 
+- The price ranges are based on the fixed plan itself or the "RAM slide".
+- Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
+- The hosts are listed in an unordered way, there's no "best" host, just the __most fitting__.
 
 ### Definitions:
 - Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
