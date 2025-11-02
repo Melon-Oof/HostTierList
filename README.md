@@ -29,7 +29,6 @@ Below, there's some more detailed information useful for configurators and/or be
 Price: $1 to $4.5/GB depending on the CPU/Lineup
 
 **Pros**
-- GDPR Compliant
 - Beginner friendly panel UI
 - Many Pterodactyl Addons, very flexible and useful for beginners
 
@@ -70,7 +69,6 @@ Price: $2 to $3/GB depending on the CPU/Lineup
 Price: €2.5/GB
 
 **Pros**
-- GDPR Compliant
 - Location based panel (optimized for EU and US)
 - Many Pterodactyl Addons
 - Fast unarchiviation of files
@@ -88,7 +86,6 @@ Price: $2.25 to $3/GB
 **Note**: I have not used Bloom Host personally for an extended amount of time.
 
 **Pros**
-- GDPR Compliant
 - Many Pterodactyl Addons
 - Customized panel (Can be confusing for standard pterodactyl users)
 - Active Community Support
