@@ -80,3 +80,19 @@ Price: €2.5/GB
 - ~~Issues with MySQL/MariaDB databases~~ Fixed? (01/11/25)
 - Single Lineup
 - Small support team
+
+# Bloom Host
+### CPU Range: 3900 up to 5950X Varies based on location
+Price: $2.25 to $3/GB
+
+**Note**: I have not used Bloom Host personally for an extended amount of time.
+
+**Pros**
+- GDPR Compliant
+- Many Pterodactyl Addons
+- Customized panel (Can be confusing for standard pterodactyl users)
+- Active Community Support
+
+**Cons**
+- Performance Plans cheaper than Essentials Plans? (Price/GB)
+- US Optimized Support Times (8AM to 8PM Eastern US)
