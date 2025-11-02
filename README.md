@@ -87,7 +87,7 @@ Price: $2.25 to $3/GB
 
 **Pros**
 - Many Pterodactyl Addons
-- Customized panel (Can be confusing for standard pterodactyl users)
+- Decent UI
 - Active Community Support
 
 **Cons**
