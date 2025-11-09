@@ -21,8 +21,9 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |Sparked Host | [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) | $1 to $4.5/GB | ❌ | ✅ | ✅ | 2042 to 4675 | - |
 |Pebble Host  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ✅ | 3386 to 4128 | -  |
 |Birdflop Hosting  | 3900XT up to 9900X | $2 to $3/GB | ❌ | ✅ | ⚠️ | 2742 to 4675 | 501(c)(3) non-profit organization  | - |
-|Craftlands Hosting  | 7950x3D up to 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4733 | -  |
+|Craftlands Hosting  | 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4144 to 4733 | -  |
 |Bloom Host  | 3900 up to 5950X | $2.25 to $3/GB | Performance Plans & Higher | ✅ | ✅ | 2607 to 3473 | Free Dedicated IPs with Performance Plans & Higher |
+|Pufferfish  | 5950X up to 9950X | $2 to $3.5/GB | Performance Plans | ✅ | ✅ | 3473 to 4733 | In-house L7 DDoS Mitigation. 100+ Tbps DDoS Protection. (Incomplete)  |
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
