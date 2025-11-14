@@ -24,7 +24,8 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |Craftlands Hosting  | 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4144 to 4733 | -  |
 |Bloom Host  | 3900 up to 5950X | $2.25 to $3/GB | Performance Plans & Higher | ✅ | ✅ | 2607 to 3473 | Free Dedicated IPs with Performance Plans & Higher |
 |Pufferfish Host  | 3600 up to 9950X | $2 to $3.5/GB | Premium Plans | ✅ | ✅ | 2561 to 4733 | Free Dedicated IPs (on all Plans)  |
-|ServCity  | Ampere Altra Max M128-30 up to 9950X | $0.75 to $2.7~ | Extreme Plans Only | ✅ | ✅ | n/a to 4733 | - |
+|ServCity  | Ampere Altra Max M128-30 up to 9950X | €0.75 to €2.7~ | Extreme Plans Only | ✅ | ✅ | n/a to 4733 | - |
+|Lagless  | [EPYC 4545* up to 9950X](https://lagless.gg/locations-hardware) | $2 | Extreme Plans Only | ✅ | ✅ | 4457 to 4733 | - |
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
