@@ -27,6 +27,7 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |ServCity  | Ampere Altra Max M128-30 up to 9950X | €0.75 to ~€2.7/GB | Extreme Plans Only | ✅ | ✅ | n/a to 4733 | - |
 |Lagless  | [EPYC 4545* up to 9950X](https://lagless.gg/locations-hardware) | $2/GB | ❌ | ✅ | ✅ | 4457 to 4733 | - |
 |Revivenode  | [3900X up to 9950X](https://revivenode.com/specs) | $1 to $2/GB | ❌ | ✅ | ⚠️ | 2703 to 4733 | Uncapped vCores. 250Mbps Uplink |
+|PrismNodes  | 7900 to 9950X | $1.25 to ~$2.5/GB | ❌ | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
