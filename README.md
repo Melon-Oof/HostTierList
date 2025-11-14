@@ -26,7 +26,7 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |Pufferfish Host  | 3600 up to 9950X | $2 to $3.5/GB | Premium Plans | ✅ | ✅ | 2561 to 4733 | Free Dedicated IPs (on all Plans)  |
 |ServCity  | Ampere Altra Max M128-30 up to 9950X | €0.75 to ~€2.7/GB | Extreme Plans Only | ✅ | ✅ | n/a to 4733 | - |
 |Lagless  | [EPYC 4545* up to 9950X](https://lagless.gg/locations-hardware) | $2/GB | ❌ | ✅ | ✅ | 4457 to 4733 | - |
-|Revivenode  | [3900X up to 9950X](https://revivenode.com/specs) | $1 to $2/GB | ❌ | ✅ | ✅ | 2703 to 4733 | Uncapped vCores. 250Mbps Uplink |
+|Revivenode  | [3900X up to 9950X](https://revivenode.com/specs) | $1 to $2/GB | ❌ | ✅ | ⚠️ | 2703 to 4733 | Uncapped vCores. 250Mbps Uplink |
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
