@@ -4,17 +4,16 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 
 
 > ### **Important**: 
->- The price ranges are based on the fixed plan itself or the "RAM slide".
->- Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
->- The hosts are listed in an unordered way, there's no "best" host, just the __most fitting to your use case__.
+> - The price ranges are based on the fixed plan itself or the "RAM slide".
+> - Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
+> - The hosts are listed in an unordered way, there's no "best" host, just the __most fitting to your use case__.
 
-### Definitions:
+***
 
-
-### Emoji Definitions:
-- ❌ No/Doesn't Have
-- ⚠️ Not confirmed yet/not sure
-- ✅ Yes/Has it
+> ### Emoji Definitions:
+> - ❌ No/Doesn't Have
+> - ⚠️ Not confirmed yet/not sure
+> - ✅ Yes/Has it
 
 |Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
 |---          |---  |---       |---              |---               | ---            |---                   |---    |
