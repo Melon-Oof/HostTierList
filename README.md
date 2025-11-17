@@ -16,7 +16,7 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 - ⚠️ Not confirmed yet/not sure
 - ✅ Yes/Has it
 
-|Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
+|Host Provider| CPU | Price/GB for a Month | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
 |---          |---  |---       |---              |---               | ---            |---                   |---    |
 |Sparked Host | [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) | $1 to $4.5/GB | ❌ | ✅ | ✅ | 2042 to 4675 | - |
 |Pebble Host  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ✅ | 3386 to 4127 | -  |
@@ -30,6 +30,7 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |PrismNodes  | 7900 up to 9950X | $1.25 to ~$2.5/GB | ❌ | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
 |Lilypad | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |UltraServers | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
+|Litebyte Hosting | Xeon E5-2670v3 up to 9950X | $0.75 to $2/GB | ❌ | ❌ | ✅ | 1692 to 4733 | Not a Registered Company (e.g. LLC, LTD...). 4 Base Threads, any extra is an additional cost. |
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
