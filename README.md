@@ -29,7 +29,6 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 |[PrismNodes](https://prismnodes.com/)  | 7900 up to 9950X | $1.25 to ~$2.5/GB | ❌ | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
 |[Lilypad](https://lilypad.gg/) | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |[UltraServers](https://ultraservers.com/) | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
-|[Litebyte Hosting](https://litebyte.co/) | Xeon E5-2670v3 up to 9950X | $0.75 to $2/GB | ❌ | ❌ | ✅ | 1692 to 4733 | Not a Registered Company (e.g. LLC, LTD...). 4 Base Threads, any extra is an additional cost. |
 
 > [!NOTE]
 > - CPU: The range of CPUs from weakest to best (single thread rating based), in __ANY__ of the plans and/or locations.
