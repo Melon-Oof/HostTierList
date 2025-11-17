@@ -1,15 +1,13 @@
 # Host List
 A Repository for Minecraft Hosting Tierlists with pros and cons.
-### **Important**: 
-- The price ranges are based on the fixed plan itself or the "RAM slide".
-- Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
-- The hosts are listed in an unordered way, there's no "best" host, just the __most fitting__.
+> [!WARNING]
+> ### **Important**: 
+> The price ranges are based on the fixed plan itself or the "RAM slide".
+> Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
+> The hosts are listed in an unordered way, there's no "best" host, just the __most fitting to your use case__.
 
 ### Definitions:
-- Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
-- Scalable Threads: The more ram you buy, the more cores you get too. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
-- Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
-- GDPR compliant: Explicit statement compliance with GDPR from the Executives of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
+
 
 ### Emoji Definitions:
 - ❌ No/Doesn't Have
@@ -31,6 +29,13 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |Lilypad | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |UltraServers | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
 |Litebyte Hosting | Xeon E5-2670v3 up to 9950X | $0.75 to $2/GB | ❌ | ❌ | ✅ | 1692 to 4733 | Not a Registered Company (e.g. LLC, LTD...). 4 Base Threads, any extra is an additional cost. |
+
+> [!NOTE]
+> Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
+> Scalable Threads: The more ram you buy, the more cores you get too. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
+> Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
+> GDPR compliant: Explicit statement compliance with GDPR from the Executives of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
+
 
 ## Detailed List:
 Below, there's some more detailed information useful for configurators and/or beginners in the field.
