@@ -1,6 +1,8 @@
 # Host List
-A Repository for Minecraft Hosting Tierlists with pros and cons.
-> [!WARNING]
+
+Hey there, am Melon, the author of this repository. Every host here has either been added by me, because of personal choice, suggestion by a friend, or it has been added through the request of a [GitHub Issue](https://github.com/Melon-Oof/HostList/issues). EVerything within the table is as objective as it gets.
+
+
 > ### **Important**: 
 >- The price ranges are based on the fixed plan itself or the "RAM slide".
 >- Additionally, the CPUs are most likely AMD Ryzen, else their full model will be mentioned.
@@ -14,7 +16,7 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 - ⚠️ Not confirmed yet/not sure
 - ✅ Yes/Has it
 
-|Host Provider| CPU | Price/GB for a Month | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
+|Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
 |---          |---  |---       |---              |---               | ---            |---                   |---    |
 |Sparked Host | [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) | $1 to $4.5/GB | ❌ | ✅ | ✅ | 2042 to 4675 | - |
 |Pebble Host  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ✅ | 3386 to 4127 | -  |
@@ -31,10 +33,12 @@ A Repository for Minecraft Hosting Tierlists with pros and cons.
 |Litebyte Hosting | Xeon E5-2670v3 up to 9950X | $0.75 to $2/GB | ❌ | ❌ | ✅ | 1692 to 4733 | Not a Registered Company (e.g. LLC, LTD...). 4 Base Threads, any extra is an additional cost. |
 
 > [!NOTE]
->- Single Thread Rating: it's a rating sourced from Passmark's website. **The higher the value, the better**.
->- Scalable Threads: The more ram you buy, the more cores you get too. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
->- Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
->- GDPR compliant: Explicit statement compliance with GDPR from the Executives of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
+> - Price/GB: It's based off the monthly pricing of the plan, without any discount and/or additional addons.
+> - Single Thread Rating: it's a rating sourced from [Passmark's website](https://www.cpubenchmark.net/). **The higher the value, the better**.
+> - Scalable Threads: The more ram you buy, the more cores you get, free of charge. Example: 4GB plan comes with 2 vCores, 8GB plan comes with 3 vCores
+> - Dedicated Cores: as the name says, cores dedicated to you, so, other servers on the same node don't affect you.
+> - GDPR compliant: Explicit statement compliance with GDPR from the Executives/Legal Docs of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
+> - Notes: The notes column is used for outstanding/out of the norm characteristics of the hosting, or any additional information the end-user should be aware of. Be it good or bad.
 
 
 ## Detailed List:
