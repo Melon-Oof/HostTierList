@@ -1,6 +1,6 @@
 # Host List
 
-Hey there, am Melon, the author of this repository. Every host here has either been added by me, because of personal choice, suggestion by a friend, or it has been added through the request of a [GitHub Issue](https://github.com/Melon-Oof/HostList/issues). Everything within the table is as objective as it gets.
+Hey there, am Melon, the author of this repository. Every host here has either been added by me, because of personal choice, suggestion by a friend, or it has been added through the request of a [GitHub Issue](https://github.com/Melon-Oof/HostList/issues). Everything within the table is as objective as it gets. If you need __FREE__ Minecraft Hosting, I suggest you to check out [Myuui's repo](https://github.com/Myuui/Free-Minecraft-Hosts).
 
 
 > ### **Important**: 
