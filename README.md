@@ -40,7 +40,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 > - GDPR compliant: Explicit statement compliance with GDPR from the Executives/Legal Docs of the Company/Organization. (Even though every business doing sales with EU citizens __should__ be compliant)
 > - Notes: The notes column is used for outstanding/out of the norm characteristics of the hosting, or any additional information the end-user should be aware of. Be it good or bad.
 
-<div></div>
+<div> </div>
 
 > [!NOTE]
 > ### Personal Obeservations
