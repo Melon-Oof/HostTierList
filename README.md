@@ -42,7 +42,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 ***
 
 > [!NOTE]
-> ### Personal Obeservations
+> ### Personal Observations
 > Right Below, there's some more detailed information (more of personal observations made by me (and possibly trusted users), useful for configurators and/or beginners in the field.
 
 ## Sparked Host
