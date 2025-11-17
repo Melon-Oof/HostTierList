@@ -45,8 +45,8 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 > ### Personal Obeservations
 > Right Below, there's some more detailed information (more of personal observations made by me (and possibly trusted users), useful for configurators and/or beginners in the field.
 
-# Sparked Host
-### CPU Range: [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) Varies based on location
+## Sparked Host
+**CPU Range: [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/game-server-hosting/features/hardware-and-locations/) Varies based on location**
 Price: $1 to $4.5/GB depending on the CPU/Lineup
 
 **Pros**
@@ -57,8 +57,8 @@ Price: $1 to $4.5/GB depending on the CPU/Lineup
 - Unbalanced pricing on Enterprise and Extreme lineup
 - Budget lineup doesn't meet today's minecraft standards
 
-# Pebble Host
-### CPU Range: [5700X to 7900](https://pebblehost.com/specs) Varies based on location
+## Pebble Host
+**CPU Range: [5700X to 7900](https://pebblehost.com/specs) Varies based on location**
 Price: $1 to $2.25/GB depending on the CPU/Lineup
 
 **Pros**
@@ -71,8 +71,8 @@ Price: $1 to $2.25/GB depending on the CPU/Lineup
 **Cons**
 - AI Support not reliable
 
-# Birdflop Hosting
-### CPU Range: 3900XT up to 9900X Varies based on location
+## Birdflop Hosting
+**CPU Range: 3900XT up to 9900X Varies based on location**
 Price: $2 to $3/GB depending on the CPU/Lineup
 
 **Pros**
@@ -85,8 +85,8 @@ Price: $2 to $3/GB depending on the CPU/Lineup
 - Small support team
 - Mixed discord server, aka not hosting only. (Can be confusing)
 
-# Craftlands Hosting
-### CPU Range: 7950x3D up to 9950X Varies based on location
+## Craftlands Hosting
+**CPU Range: 7950x3D up to 9950X Varies based on location**
 Price: €2.5/GB
 
 **Pros**
@@ -100,8 +100,8 @@ Price: €2.5/GB
 - Single Lineup
 - Small support team
 
-# Bloom Host
-### CPU Range: 3900 up to 5950X Varies based on location
+## Bloom Host
+**CPU Range: 3900 up to 5950X Varies based on location**
 Price: $2.25 to $3/GB
 
 **Note**: I have not used Bloom Host personally for an extended amount of time.
