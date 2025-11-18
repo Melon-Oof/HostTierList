@@ -29,6 +29,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 |[PrismNodes](https://prismnodes.com/)  | 7900 up to 9950X | $1.25 to ~$2.5/GB | ❌ | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
 |[Lilypad](https://lilypad.gg/) | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |[UltraServers](https://ultraservers.com/) | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
+|[Elysia Cloud](https://www.elysiacloud.com/) | 9950X | $1.25/GB | ❌ | ✅ | ✅ | 4733 | - |
 
 > [!NOTE]
 > - CPU: The range of CPUs from weakest to best (single thread rating based), in __ANY__ of the plans and/or locations.
