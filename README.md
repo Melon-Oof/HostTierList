@@ -26,7 +26,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 |[ServCity](https://servcity.org/)  | Ampere Altra Max M128-30 up to 9950X | €0.75 to ~€2.7/GB | Extreme Plans Only | ✅ | ✅ | n/a to 4733 | - |
 |[Lagless](https://lagless.gg/)  | [EPYC 4545* up to 9950X](https://lagless.gg/locations-hardware) | $2/GB | ❌ | ✅ | ✅ | 4457 to 4733 | - |
 |[Revivenode](https://revivenode.com/)  | [3900X up to 9950X](https://revivenode.com/specs) | $1 to $2/GB | ❌ | ✅ | ⚠️ | 2703 to 4733 | Uncapped vCores. 250Mbps Uplink. [Security Incident 2024](https://web.archive.org/web/20240226222249/https://wiki.revivenode.com/en/article/revivenode-whmcs-security-incident-feb-2024-6qawow/) |
-|[PrismNodes](https://prismnodes.com/)  | 7900 up to 9950X | $1.25 to ~$2.5/GB | ❌ | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
+|[PrismNodes](https://prismnodes.com/)  | 7900 up to 9950X | $1.25 to ~$2.5/GB | Premium Tier Only. Needs to be selected, at an additional cost. | ✅ | ✅ | 4127 to 4733 | Premium Tier is claimed to start "From $2.25/GB RAM", by checking the actual price of every singular plan, most came around $2.48 to $2.50 |
 |[Lilypad](https://lilypad.gg/) | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |[UltraServers](https://ultraservers.com/) | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
 |[Elysia Cloud](https://www.elysiacloud.com/) | 9950X | $1.25/GB | ❌ | ✅ | ✅ | 4733 | - |
