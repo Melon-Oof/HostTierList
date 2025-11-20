@@ -32,7 +32,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 |[Lilypad](https://lilypad.gg/) | 7950X* | $2.75/GB | ❌ | ✅ | ✅ | 4261 | *Or equivalent. Wasn't able to find a hardware page. |
 |[UltraServers](https://ultraservers.com/) | 7950X3D up to 9950X | $1/GB | ❌ | ✅ | ✅ | 4143 to 4733 | - |
 |[Elysia Cloud](https://www.elysiacloud.com/) | 9950X | $1.25/GB | ❌ | ✅ | ✅ | 4733 | - |
-|[PaperNodes](https://papernodes.com/) | [7950X up to 9950X](https://billing.papernodes.com/p/server-specs) | £1.5 to ~£1.7/GB | ❌ | ✅ | ✅ | 4261 to 4733 | Their Price/GB isn't consistent for all the plans on the same tier. They offer Uncapped Cores under their fair use terms. I didn't include the Budget Tier as it's marked as a "Coming Soon" |
+|[PaperNodes](https://papernodes.com/) | [7950X up to 9950X](https://billing.papernodes.com/p/server-specs) | £1.5 to ~£1.7/GB | ❌ | ✅ | ✅ | 4261 to 4733 | Their Price/GB isn't consistent for all the plans on the same tier. They offer Uncapped Cores under their fair use terms. I didn't include the Budget Tier as it's marked as a "Coming Soon". Met many inconsistencies within their website |
 
 > [!NOTE]
 > - CPU: The range of CPUs from weakest to best (single thread rating based), in __ANY__ of the plans and/or locations.
