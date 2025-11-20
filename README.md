@@ -9,6 +9,8 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 > - The hosts are listed in an unordered way, **there's no "best" host**, just the __most fitting to your use case__.
 >
 > - Do note that am human and there are possibly some mistakes here and there. Open a github issue if you find any.
+> - Do note also that some providers, or their providers undervolt (lower performance) the cpu.
+> - The information listed down here is sourced from the websites of the services/their executives.
 
 ***
 
