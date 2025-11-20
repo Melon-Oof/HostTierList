@@ -20,7 +20,7 @@ Hey there, am Melon, the author of this repository. Every host here has either b
 |Host Provider| CPU | Price/GB | Dedicated Cores | Scalable Threads | GDPR compliant | Single Thread Rating | Notes |
 |---          |---  |---       |---              |---               | ---            |---                   |---    |
 |[Sparked Host](https://sparkedhost.com/) | [Dual Intel Xeon E5 up to 9900X](https://sparkedhost.com/features/hardware-and-locations) | $1 to $4.5/GB | ❌ | ✅ | ✅ | 2042 to 4675 | - |
-|[Pebble Host](https://pebblehost.com/)  | [5700X to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ✅ | 3386 to 4127 | -  |
+|[Pebble Host](https://pebblehost.com/)  | [Xeon E-2136 to 7900](https://pebblehost.com/specs) | $1 to $2.25/GB | ❌ | ✅ | ✅ | 2632 to 4127 | -  |
 |[Birdflop Hosting](https://www.birdflop.com/#plans)  | 3900XT up to 9900X | $2 to $3/GB | ❌ | ✅ | ⚠️ | 2742 to 4675 | 501(c)(3) non-profit organization  | - |
 |[Craftlands Hosting](https://craftlands.host/)  | 7950X3D up to 9950X | €2.5/GB | ❌ | ✅ | ✅ | 4143 to 4733 | -  |
 |[Bloom Host](https://bloom.host/)  | 3900 up to 5950X | $2.25 to $3/GB | Performance Plans & Higher | ✅ | ✅ | 2607 to 3473 | Free Dedicated IPs with Performance Plans & Higher |
