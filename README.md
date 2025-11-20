@@ -2,14 +2,16 @@
 
 Hey there, am Melon, the author of this repository. Every host here has either been added by me, because of personal choice, suggestion by a friend, or it has been added through the request of a [GitHub Issue](https://github.com/Melon-Oof/HostList/issues). Everything within the table is as objective as it gets. If you need __FREE__ Minecraft Hosting, I suggest you to check out [Myuui's repo](https://github.com/Myuui/Free-Minecraft-Hosts).
 
-
+> [!WARNING]
+> **Do your own research**, some of these hosts have been personally tested by me. They may be more or less good, their CPUs may be undervolted or such.
+> As such, the Single Thread Rating may not actually reflect the performance you're getting.
+> The list is to provide beginners with a starting point.
 > ### **Important**: 
 > - The price ranges are based on the fixed plan itself or the "RAM slide".
 > - Additionally, the CPUs are most likely AMD Ryzen, else their (partially) full model will be mentioned (in a way that it can be recognized).
 > - The hosts are listed in an unordered way, **there's no "best" host**, just the __most fitting to your use case__.
 >
 > - Do note that am human and there are possibly some mistakes here and there. Open a github issue if you find any.
-> - Do note also that some providers, or their providers undervolt (lower performance) the cpu.
 > - The information listed down here is sourced from the websites of the services/their executives.
 
 ***
